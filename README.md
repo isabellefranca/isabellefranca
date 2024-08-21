@@ -2,7 +2,6 @@
 - My name is **Isabelle França**.
 - I'm from **Brazil**.
 - I’m interested in **front-end development**.
-- I’m currently learning **Typescript, Node.js**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellefranca&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
