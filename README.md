@@ -3,7 +3,7 @@
 - I'm from **Brazil**.
 - I’m interested in **front-end development**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellefranca&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ##
 
